@@ -62,12 +62,17 @@ import tensorflow as tf
 >>>>> 缩进五
 
 # 网址：
-[点击这里](http://www.baidu.com)  
+## 直接
+[点击这里](http://www.baidu.com)  
 [本文件](333/新建文本文档.txt)  
 [本文件](好书书名.txt)  
 
+## 相对
+[CSDN][csdn]
+
 # 图片：
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
+
 
 # 任务列表：
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
@@ -102,3 +107,5 @@ _You **can** combine them_
 3. Item 3
    1. Item 3a
    2. Item 3b
+
+[csdn]:http://blog.csdn.net/guodongxiaren
