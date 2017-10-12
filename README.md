@@ -40,9 +40,9 @@
 - Blue
 
 ## 有序列表  
-* 列表一  
-  * 列表二  
-    *列表三 
+* 列表一
+  * 列表二
+    * 列表三
 1. first
 2. second
 
@@ -69,9 +69,6 @@ import tensorflow as tf
 
 # 图片：
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
-
-[![baidu]](http://baidu.com)  
-[baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo" 
 
 # 任务列表：
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
