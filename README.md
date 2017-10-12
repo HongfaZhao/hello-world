@@ -21,6 +21,7 @@
 *斜体*  
 ~~删除~~  
 ``高亮``  
+`高亮`  
 
 --------
 测试
@@ -36,8 +37,13 @@
     *列表三  
 
 
-# 内嵌代码：
-`alert('Hello World');`
+# 内嵌代码(高亮)：
+```c++
+alert('Hello World');
+```
+```python
+import tensorflow as tf
+```
 
 # 引用：
 > 引用1
