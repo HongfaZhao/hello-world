@@ -68,10 +68,41 @@ import tensorflow as tf
 [本文件](好书书名.txt)  
 
 # 图片：
-## 直接方式
-![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo") 
+![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 
-## 参考方式
-![Alt text][id]
-[id]:http://www.baidu.com/img/bdlogo.gif "百度logo"
+[![baidu]](http://baidu.com)  
+[baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo" 
 
+# 任务列表：
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
+# 列表：
+First Header | Second Header
+------------ | ------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+# emoji
+:+1:
+
+*This text will be italic*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
+
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+
+1. Item 1
+2. Item 2
+3. Item 3
+   1. Item 3a
+   2. Item 3b
