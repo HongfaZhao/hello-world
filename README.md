@@ -23,18 +23,28 @@
 ``高亮``  
 `高亮`  
 
---------
-测试
+# 分割线（-三个以上）：  
+---
+----
 
 # 列表项：
-## 并列列表  
-* 列表一  
-* 列表二  
-* 列表三  
-## 多级列表  
+## 无序列表（*+-等同）
+* Red
+* Green
+* Blue
++ Red
++ Green
++ Blue
+- Red
+- Green
+- Blue
+
+## 有序列表  
 * 列表一  
   * 列表二  
-    *列表三  
+    *列表三 
+1. first
+2. second
 
 
 # 内嵌代码(高亮)：
@@ -45,8 +55,7 @@ alert('Hello World');
 import tensorflow as tf
 ```
 
-# 引用：
-> 引用1
+# 引用区块：
 > 缩进一
 >> 缩进二
 >>> 缩进三
@@ -58,6 +67,11 @@ import tensorflow as tf
 [本文件](333/新建文本文档.txt)  
 [本文件](好书书名.txt)  
 
-# 图片
+# 图片：
+## 直接方式
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo") 
+
+## 参考方式
+![Alt text][id]
+[id]:http://www.baidu.com/img/bdlogo.gif "百度logo"
 
