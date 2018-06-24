@@ -1,13 +1,20 @@
+# A Fast Unsupervised Approach for Multi-Modality Surgical Trajectory Segmentation
 
-To run the experiment, please see the shell at ./scripts/run_experiment_examples and The JIGSAWS dataset can be downloaded at the website: [JIGSAWS](https://cirl.lcsr.jhu.edu/research/hmm/datasets/jigsaws_release/)  
+To run the experiment, please see the shell at ./scripts/run_experiment_examples and The JIGSAWS dataset can be downloaded at the website: [JIGSAWS]
 
-The 'data' folder should contain the kinematics data and video, and the features extreated by DCED-Net or others network should be copy to here finally.
+## A brief introduction of each folder：
+Folder Name | Brief Introduction
+----------- | ------------------
+clustering  | Segmentation Results
+config      | Experiment Configure
+data        | Kinematics and Video Data([JIGSAWS]), DCED-Net Features
+post_promoting | PMDD Promoting
+scripts     | Modified TSC Model, DCED-Net
+wavelet     | Wavelet Filtering
 
-The 'wavelet' folder performance the wavelet filtering and denoising for kinematic data.
+[JIGSAWS]:https://cirl.lcsr.jhu.edu/research/hmm/datasets/jigsaws_release/
 
-The 'scripts' folder include our Dense Convolutional Encoder-Decoder Network(DCED-Net) and the modified Transition State Clustering(TSC) model.
-
-The 'post_promoting' folder contain PMDD segmentation promoting code.
+-----------------------------------------------------------------------------
 
 
 # md练习
