@@ -3,7 +3,11 @@ To run the experiment, please see the shell at ./scripts/run_experiment_examples
 
 The 'data' folder should contain the kinematics data and video, and the features extreated by DCED-Net or others network should be copy to here finally.
 
-The 'wavelet' floder is the wavelet filtering and denoising 
+The 'wavelet' folder performance the wavelet filtering and denoising for kinematic data.
+
+The 'scripts' folder include our Dense Convolutional Encoder-Decoder Network(DCED-Net) and the modified Transition State Clustering(TSC) model.
+
+The 'post_promoting' folder contain PMDD segmentation promoting code.
 
 
 # md练习
