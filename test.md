@@ -9,7 +9,7 @@ clustering  | Segmentation Results
 config      | Experiment Configure
 data        | Kinematics and Video Data([JIGSAWS]), DCED-Net Features
 post_promoting | PMDD Promoting
-scripts     | Modified TSC Model, DCED-Net
+scripts     | DCED-Net, Modified TSC Model
 wavelet     | Wavelet Filtering
 
 [JIGSAWS]:https://cirl.lcsr.jhu.edu/research/hmm/datasets/jigsaws_release/
