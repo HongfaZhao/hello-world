@@ -12,7 +12,7 @@ post_promoting | PMDD Promoting
 scripts     | DCED-Net, Modified TSC Model
 wavelet     | Wavelet Filtering
 
-## The video can be see at:[video](好书书名.txt)  
+## The video can be see at:[video](video.mp4)  
 ![gif](https://github.com/HongfaZhao/hello-world/blob/master/ggg.gif)
 
 [JIGSAWS]:https://cirl.lcsr.jhu.edu/research/hmm/datasets/jigsaws_release/
