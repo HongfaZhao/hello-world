@@ -1,8 +1,7 @@
 
 To run the experiment, please see the shell at ./scripts/run_experiment_examples and The JIGSAWS dataset can be downloaded at the website: [JIGSAWS](https://cirl.lcsr.jhu.edu/research/hmm/datasets/jigsaws_release/)  
 
-'data' 
-
+The 'data' floder should contain the kinematics data and video, and the features extreated by DCED-Net or others network should be copy to here finally.
 
 
 # md练习
