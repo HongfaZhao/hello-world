@@ -1,3 +1,10 @@
+
+To run the experiment, please see the shell at ./scripts/run_experiment_examples and The JIGSAWS dataset can be downloaded at the website: https://cirl.lcsr.jhu.edu/research/hmm/datasets/jigsaws_release/
+
+'data' 
+
+
+
 # md练习
 
 大标题
