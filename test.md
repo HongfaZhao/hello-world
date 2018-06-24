@@ -16,7 +16,7 @@ wavelet     | Wavelet Filtering
 ![gif](https://github.com/HongfaZhao/hello-world/blob/master/ggg.gif)
 
 ## The Segmentation Results can be see:
-[ppp.pdf](https://github.com/HongfaZhao/hello-world/blob/master/ppp.pdf).
+[ppp.pdf](https://github.com/HongfaZhao/hello-world/blob/master/ppp.pdf)
 
 [JIGSAWS]:https://cirl.lcsr.jhu.edu/research/hmm/datasets/jigsaws_release/
 
