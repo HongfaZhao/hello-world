@@ -12,7 +12,7 @@ post_promoting | PMDD Promoting
 scripts     | DCED-Net, Modified TSC Model
 wavelet     | Wavelet Filtering
 
-![Demo picture](https://raw.githubusercontent.com/your_name/your_project_name/master/test.gif)
+![gif](https://github.com/HongfaZhao/hello-world/blob/master/ggg.gif)
 
 [JIGSAWS]:https://cirl.lcsr.jhu.edu/research/hmm/datasets/jigsaws_release/
 
