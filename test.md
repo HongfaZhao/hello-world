@@ -15,6 +15,16 @@ wavelet     | Wavelet Filtering
 ## The video can be see at: [video](video.mp4)  
 ![gif](https://github.com/HongfaZhao/hello-world/blob/master/ggg.gif)
 
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+
+<object width="425" height="350">
+  <param name="movie" value="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg" />
+  <param name="wmode" value="transparent" />
+  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
+
 [JIGSAWS]:https://cirl.lcsr.jhu.edu/research/hmm/datasets/jigsaws_release/
 
 -----------------------------------------------------------------------------
